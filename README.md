@@ -17,15 +17,11 @@ The administrators have the final say in what glitches are allowed or not, if th
 
 **A5. Loopholes.** Abusing loopholes in server rules or circumventing them altogether is not allowed. 
 
-
-
-
 ## Section B - Staff Rules
 
 **B1. Abuse.** If a staff member abuses their position for a gameplay advantage, they will be demoted and banned from running as staff again. Very serious abuse of staff position will also get the person permanently banned. 
 
 **B2. Logging.** Whenever a staff member takes any important administrative action (banning somebody or similar), they must post it in #1984-logs or output a - log using Wick (if possible)**. 
-
 
 **B3. Item protection.** Staff member’s items are protected while they are taking administrative or other staff actions.
 
@@ -76,7 +72,6 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 **D5. Uniting.** 
 - **I.)** If two nations unite, the newly formed nation is not considered a new nation and keeps all members and all territory of both nations. When uniting, immunity and cooldown of such a nation is not reset, but rather follows the immunity/cooldown of the nation that had fewer days of immunity/cooldown left.
 - **II.)** When a nation joins another nation, the latter automatically gets all members of the former, however will not inherit the former’s land. All immunity/cooldown times follow the times of the latter nation.
-
 
 **D6. Declaring independence.** Only a member of a nation may declare independence from it. Declarations of independence must be posted in #claims. A nation that declares independence is considered a new nation. It may claim all territory that is de facto controlled by its members. Control includes leading a nation, leading a region, being the mayor of a town, or owning a building on your nation’s territory. Such a nation automatically gains all players that reside on its territory.
 
