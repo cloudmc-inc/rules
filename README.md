@@ -29,6 +29,7 @@ The administrators have the final say in what glitches are allowed or not, if th
 
 **B5. Vetoing.** During staff applications/elections, administrators may unanimously veto a candidate or applicant, whether it be due to prior offenses or incompetence.
 
+*test change*
 
 ## Section C - Chat Rules
 
