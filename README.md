@@ -114,10 +114,10 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 ## Section F - Gameplay Rules
 
 **F1. Griefing.** 
-- **I).** When not at war, you may grief or edit claimed buildings and structures - (including signs) only if you are the leader of the nation or have explicit permission from the leader. 
-- **II).** Everyone can edit naturally generated terrain that is unclaimed or claimed by the nation they are in; however, irreversibly damaging natural terrain (i.e. lava casting, excessive TNT bombing, etc.) is prohibited even if the land is unclaimed. The exception to this is the nether and the end (except the main island). 
-- **III)**. Griefing by generating portals into claimed land when there is no clear reason for it is not allowed. 
-- **IV)**. During war, griefing is allowed as long as it’s directly relevant to the fight and not unnecessary, in claimed land. In unclaimed land, all griefing is allowed during war, as long as it’s directly or indirectly relevant to the fight. 
+- **I.)** When not at war, you may grief or edit claimed buildings and structures - (including signs) only if you are the leader of the nation or have explicit permission from the leader. 
+- **II.)** Everyone can edit naturally generated terrain that is unclaimed or claimed by the nation they are in; however, irreversibly damaging natural terrain (i.e. lava casting, excessive TNT bombing, etc.) is prohibited even if the land is unclaimed. The exception to this is the nether and the end (except the main island). 
+- **III.)** Griefing by generating portals into claimed land when there is no clear reason for it is not allowed. 
+- **IV.)** During war, griefing is allowed as long as it’s directly relevant to the fight and not unnecessary, in claimed land. In unclaimed land, all griefing is allowed during war, as long as it’s directly or indirectly relevant to the fight. 
 
 **F2. Killing.** You may attack and kill another person even when not at war. Repeated killing over a long period of time with no real benefit or reason is not allowed. Spawnkilling is not allowed either. 
 
@@ -134,9 +134,9 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
   - Pinging the enemy leader(s). 
 
   *A war declaration is not valid unless these terms are fulfilled.*
-- **II)**. In order to declare war you need at least 2 medium sized houses to count as settlements, this is checked by moderators before the war is confirmed.
-- **III)**. The nation that gets declared on has 24 hours to confirm the war declaration, and present a list of soldiers. They have another 24 hours to either agree on the time and place suggested by the attacker, or present their own. The administrators is responsible for deciding a time and place if there is no agreement. 
-- **IV)**. Both sides need to agree at the point of war declaration if crystal pvp should be allowed or not in the war. Using end crystals and respawn anchors as a means to kill or damage people or ground during the battle all counts as crystal pvp. 
+- **II.)** In order to declare war you need at least 2 medium sized houses to count as settlements, this is checked by moderators before the war is confirmed.
+- **III.)** The nation that gets declared on has 24 hours to confirm the war declaration, and present a list of soldiers. They have another 24 hours to either agree on the time and place suggested by the attacker, or present their own. The administrators is responsible for deciding a time and place if there is no agreement. 
+- **IV.)** Both sides need to agree at the point of war declaration if crystal pvp should be allowed or not in the war. Using end crystals and respawn anchors as a means to kill or damage people or ground during the battle all counts as crystal pvp. 
 
 **G2. War immunity.** 
 - **I.)** If a nation was created by a player that has recently joined a world, such a nation may not be declared war on for 7 days. Nations founded afterwards are immune to war declarations for 5 days since the establishment of that nation.
@@ -165,11 +165,11 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 **G9. Griefing wars.** If one or both sides are inactive at the time of a battle, the war will automatically become a griefing war, where the win condition for the war would be to grief all settlements enough to become unusable. A griefing war can also be directly declared. Griefing will only be legal when a soldier of the target nation is online.
 
 **G10. Peace treaties.**
-- **I)**. Volunteers can be mentioned and individually held accountable in peace treaties.
-- **II)**. A war may end only with a peace treaty. All peace treaties must be posted in #peace-treaties and must be signed by leaders of all nations that were at war.
-- **III)**. Nations may sign a voluntary peace treaty to end the war. Voluntary peace treaties are not enforced by staff.
-**IV).** Automatic capitulation occurs when one side has a clear advantage in the battle and has practically wiped all resistance from the area, reported to the staff, and verified by the staff team. When automatic capitulation occurs the winning nation may write a peace treaty, terms decided by them (within the limit of - rules) and it is automatically accepted by the enemy nation, whether voluntarily or not.
-- **V)**. Peace treaties involving anything other than taking land, disbanding, abandoning land, kicking out players and vassalization, are not enforceable by staff, and therefore have to be enforced by the players themselves. If a nation however breaks the non-enforceable part of a peace treaty then the war cooldown between those two nations is canceled, and war can occur immediately. Note that this will be decided by the staff team and the non-enforceable part being reasonable will be taken into account.
-- **VI)**. If a nation is disbanded during a war, it capitulates. An involuntary treaty is signed, in which the losing nation must accept all reasonable offered peace terms. 
-- **VII)**. If a member or multiple members of a nation during war break an important rule which considerably changes the outcome of a war, that nation will be forced to surrender.
-- **VIII)**. Annexing land as part of a peace treaty is enforceable by staff. There is no limit to how much land you can annex, and you can keep it for 2 weeks before it counts as land in terms of activity. 
+- **I.)** Volunteers can be mentioned and individually held accountable in peace treaties.
+- **II.)** A war may end only with a peace treaty. All peace treaties must be posted in #peace-treaties and must be signed by leaders of all nations that were at war.
+- **III.)** Nations may sign a voluntary peace treaty to end the war. Voluntary peace treaties are not enforced by staff.
+**IV.)** Automatic capitulation occurs when one side has a clear advantage in the battle and has practically wiped all resistance from the area, reported to the staff, and verified by the staff team. When automatic capitulation occurs the winning nation may write a peace treaty, terms decided by them (within the limit of - rules) and it is automatically accepted by the enemy nation, whether voluntarily or not.
+- **V.)** Peace treaties involving anything other than taking land, disbanding, abandoning land, kicking out players and vassalization, are not enforceable by staff, and therefore have to be enforced by the players themselves. If a nation however breaks the non-enforceable part of a peace treaty then the war cooldown between those two nations is canceled, and war can occur immediately. Note that this will be decided by the staff team and the non-enforceable part being reasonable will be taken into account.
+- **VI.)** If a nation is disbanded during a war, it capitulates. An involuntary treaty is signed, in which the losing nation must accept all reasonable offered peace terms. 
+- **VII.)** If a member or multiple members of a nation during war break an important rule which considerably changes the outcome of a war, that nation will be forced to surrender.
+- **VIII.)** Annexing land as part of a peace treaty is enforceable by staff. There is no limit to how much land you can annex, and you can keep it for 2 weeks before it counts as land in terms of activity. 
