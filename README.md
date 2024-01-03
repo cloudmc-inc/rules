@@ -1,5 +1,16 @@
 # CloudMC Rules
 
+
+## TL;DR
+- No griefing
+- No stealing
+- No spawnkilling
+- No cheating
+- No bigotry
+- No NSFW
+- You create a nation in ⁠#claims
+
+
 ## Section A - Player Rules
 
 **A1. Mods.** Hacking or using mods that grant a gameplay advantage are not allowed. 
