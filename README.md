@@ -173,3 +173,6 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 - **VI.)** If a nation is disbanded during a war, it capitulates. An involuntary treaty is signed, in which the losing nation must accept all reasonable offered peace terms. 
 - **VII.)** If a member or multiple members of a nation during war break an important rule which considerably changes the outcome of a war, that nation will be forced to surrender.
 - **VIII.)** Annexing land as part of a peace treaty is enforceable by staff. There is no limit to how much land you can annex, and you can keep it for 2 weeks before it counts as land in terms of activity. 
+
+*fun fact, you can contribute to our rules*~
+*either create an issue or make the changes yourself and open a pull request*
