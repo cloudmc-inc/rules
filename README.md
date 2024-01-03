@@ -95,9 +95,9 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 - **II.)** Attempts to circumvent applicable claiming rules by claiming long, thin - strips of land (noodle claims) may be subject to denial by map makers/staff.
 
 **E4. Colonies.** 
-- **I)**. A nation can make colonies only when it has 2 or more active members. 
-- **II).** Colonies must be reasonable (e.g. a landlocked country cannot make colonies) and must have at least 1 extra member per colony claimed. For example, a nation with 3 members can have max 2 colonies. 
-- **III)**. What counts as a colony is decided by the mapmakers/staff case-by-case. 
+- **I.)** A nation can make colonies only when it has 2 or more active members. 
+- **II.)** Colonies must be reasonable (e.g. a landlocked country cannot make colonies) and must have at least 1 extra member per colony claimed. For example, a nation with 3 members can have max 2 colonies. 
+- **III.)** What counts as a colony is decided by the mapmakers/staff case-by-case. 
 
 **E5. Maritime borders.** 
 - **I.)** Every nation that borders the sea gets a maritime border of 16 blocks. 
