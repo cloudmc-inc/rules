@@ -187,3 +187,6 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 
 *fun fact, you can contribute to our rules*~
 *either create an issue or make the changes yourself and open a pull request*
+ 
+
+**No ice spice posting**
