@@ -183,7 +183,17 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 - **V.)** Peace treaties involving anything other than taking land, disbanding, abandoning land, kicking out players and vassalization, are not enforceable by staff, and therefore have to be enforced by the players themselves. If a nation however breaks the non-enforceable part of a peace treaty then the war cooldown between those two nations is canceled, and war can occur immediately. Note that this will be decided by the staff team and the non-enforceable part being reasonable will be taken into account.
 - **VI.)** If a nation is disbanded during a war, it capitulates. An involuntary treaty is signed, in which the losing nation must accept all reasonable offered peace terms. 
 - **VII.)** If a member or multiple members of a nation during war break an important rule which considerably changes the outcome of a war, that nation will be forced to surrender.
-- **VIII.)** Annexing land as part of a peace treaty is enforceable by staff. There is no limit to how much land you can annex, and you can keep it for 2 weeks before it counts as land in terms of activity. 
+- **VIII.)** Annexing land as part of a peace treaty is enforceable by staff. There is no limit to how much land you can annex, and you can keep it for 2 weeks before it counts as land in terms of activity.
+
+## Section H - Punishments/Quotas
+- Minor griefing => ingame tempban for 1 hour
+- Major griefing/lavacasting => ingame tempban for 1 day
+- Verbal harassment => ingame tempmute + discord timeout for at least 1 day
+- Staff abuse => demotion (may include ban depending on degree of abuse)
+- Tempmod inactivity for 1 week without justification => demotion
+- Mapmaker inactivity for 1 week => removal of mapmaker role
+
+**NOTE: these quotas/punishments are not final and ma be subject to change**
 
 *fun fact, you can contribute to our rules*~
 *either create an issue or make the changes yourself and open a pull request*
