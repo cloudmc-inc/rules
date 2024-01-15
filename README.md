@@ -110,7 +110,7 @@ The administrators have the final say in what glitches are allowed or not, if th
 **C7. Following behavior is not allowed:**
 - Bullying. Constantly mentioning a sensitive topic or similar to someone with the intent to make the target feel bad or any other strong negative emotion is not allowed. [mute-1h] [mute-1w]
 - Encouraging self-harm, suicide or violence. This includes comments like “kys” or sending images that contain that phrase or a word that refers to the phrase. [mute-1d] [ban-perm]
-- Use of racist, homophobic, transphobic, and similar hate terms/slurs. This includes in images/videos/gifs sent, even if it was meant as a joke or satire. [mute-24h] [ban-perm]
+- Use of racist, homophobic, transphobic, and similar hate terms/slurs. This includes in images/videos/gifs sent, even if it was meant as a joke or satire. [mute-1d] [ban-perm]
 - Offensive symbolism or symbolism of oppressive groups or regimes. [mute-1d] [ban-perm]
 - Inappropriate dialogue / predatory behaviour or actions towards anyone. This disallows any inappropriate dialogue in public channels. [ban-perm]
 - Explicit talk about sex, irl drugs, irl alcohol and other NSFW topics [mute-1h] [ban-perm]
