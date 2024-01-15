@@ -114,7 +114,8 @@ The administrators have the final say in what glitches are allowed or not, if th
 - Offensive symbolism or symbolism of oppressive groups or regimes. [mute-1d] [ban-perm]
 - Inappropriate dialogue / predatory behaviour or actions towards anyone. This disallows any inappropriate dialogue in public channels. [ban-perm]
 - Explicit talk about sex, irl drugs, irl alcohol and other NSFW topics [mute-1h] [ban-perm]
-- Supporting groups that promote- or promote/deny genocide, harrassment and/or discrimination. 
+- Supporting groups that promote- or promote/deny genocide, harrassment and/or discrimination. [mute-48h] [ban-perma]
+- Your server profile is also eligable for moderation
 
 
 ## Section D - Nation Rules
