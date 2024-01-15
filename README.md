@@ -51,10 +51,10 @@ Examples of disallowed mods are: x-ray mods or texture packs [ban-3d] [ban-perm]
 **A2. Bugs.** Using bugs or glitches to get a personal or team advantage is not allowed. Bugs/glitches specific to the server or server software is not allowed.
 Examples of disallowed bugs/glitches are:
 - Sending oversized packets (NBT data - crashes) [ban-1w]
-- End portal breaking (breaking frames for gravity duplication is allowed) [ban-1d]&[rb]
-- Duping (see exceptions) [ban-perm]&[rb]
+- End portal breaking (breaking frames for gravity duplication is allowed) [ban-1d]
+- Duping (see exceptions) [ban-perm]
 - Cross-server teleportation [ban-3d]
-- Chunkskipping entities [ban-1w]&[rb] that do damage to:
+- Chunkskipping entities [ban-1w] that do damage to:
   - blocks 
   - entities
 
