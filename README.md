@@ -10,33 +10,83 @@
 - No NSFW
 - You create a nation in ⁠#claims
 
+#### Punishment Length Syntax:
+punishment descriptions will come in the form `[LENGTH-PUNISHMENT]`
+multiple punishments can be combined to describe a range of punishments generally based on severity or repetion
+
+```
+[ban-1d] [ban-1w] // ban from length 1 day to 1 week
+[mute-1m] [mute-60m] // mute from length 1 minute to 60 minutes
+[ban-1h] // ban for one hour exactly
+[ban-perm] // ban forever
+[ipban-perm] // ip banned
+[mute-perm] // mute forever
+[warn] // warned
+[cloudflared-perm] // your ip is blacklisted from cloudflare
+                   // and our ddos prevention
+
+// if you recieve the last one you have commited unspeakable crimes
+```
+
+```
+1s = 1 seccond
+1m = 1 minute
+1h = 1 hour
+1d = 1 day
+1w = 1 week
+1mo = 1 month
+1y = 1 year
+1de = 1 decade
+1c = 1 century
+```
+
+if a rule is missing a punishment description, sorry ☺
 
 ## Section A - Player Rules
 
 **A1. Mods.** Hacking or using mods that grant a gameplay advantage are not allowed. 
-Examples of allowed mods are: minimap mods, health display, crystal optimizers, litematica.
-Examples of disallowed mods are: x-ray mods or texture packs, Baritone, LitematicaPrinter, macros and hacked clients like Meteor and Wurst. If you are not sure if a mod is allowed or not, please ask the administrators either in a public chat or open a ticket. 
+Examples of allowed mods are: performance mods, minimap mods, health display, litematica, client visual mods.
+Examples of disallowed mods are: x-ray mods or texture packs [ban-3d] [ban-perm], LitematicaPrinter [ban-1d] [ban-1w], Baritone, macros and hacked clients including Meteor and Wurst [ban-3w] [ban-perm]. If you are not sure if a mod is allowed or not, please ask the administrators either in a public chat or open a ticket. 
 
-**A2. Bugs.** Using bugs or glitches to get a personal or team advantage is not allowed. Bugs/glitches specific to the server or server software is not allowed. 
-Examples of disallowed bugs/glitches are: sending oversized packets (NBT data - crashes), end portal breaking, duping (see exceptions), cross-server teleportation, chunkskipping entities that do block damage to either blocks or entities, such as withers. 
-Examples of allowed glitches: Sand-, gravel-, concrete-, rail-, carpet-, tnt duping, enderpearl glitching, boat-related glitches, redstone-related glitches.  If you are not sure if a mod is allowed or not, please ask the administrators either in a public chat or open a ticket. 
+**A2. Bugs.** Using bugs or glitches to get a personal or team advantage is not allowed. Bugs/glitches specific to the server or server software is not allowed.
+Examples of disallowed bugs/glitches are:
+- Sending oversized packets (NBT data - crashes) [ban-1w]
+- End portal breaking (breaking frames for gravity duplication is allowed) [ban-1d]&[rb]
+- Duping (see exceptions) [ban-perm]&[rb]
+- Cross-server teleportation [ban-3d]
+- Chunkskipping entities [ban-1w]&[rb] that do damage to:
+  - blocks 
+  - entities
+
+**Exceptions**
+Examples of allowed glitches: 
+- Gravity Duplication (sand, concrete, gravel)
+- Rail Duplication
+- Carpet Duplication
+- String Duplication
+- Tnt Duplication
+- Boat Related
+- Enderpearl Glitching
+- Redstone related (bud/quasiconnectivity)
+
+If you are not sure if a mod is allowed or you believe we have missed something, please ask the administrators either in a public chat or open a ticket. 
 The administrators have the final say in what glitches are allowed or not, if they are not written in either category.
 
-**A3. Playability.** Taking actions to prevent playability of the server is not allowed. This includes DDoS attacks, TPS lag, tile tick suppression/delay, memory bans and crash chunks. 
+**A3. Playability.** Taking actions to prevent playability of the server is not allowed. This includes DDoS attacks, TPS lag, tile tick suppression/delay, memory bans and crash chunks. [cloudflared-perm]
 
-**A4. Alts.** All alt accounts must be reported to staff. Alt accounts that have not been reported to staff will be banned, and if the alt account was used to break rules, the main account will also be punished. If a person continuously uses alts to break rules they may face a permanent ban. Using alts to get an advantage in gameplay is not allowed and can result in a permanent ban, depending on the circumstances. 
+**A4. Alts.** All alt accounts must be clearly alternative or reported to staff. Alt accounts that have not been reported to staff will be banned [ban-perm], and if the alt account was used to break rules, the main account will also be punished. If a person continuously uses alts to break rules they may face a permanent ban. Using alts to get an advantage in gameplay is not allowed. [ban-1d] [ban-1w] Using two accounts at once would count as a gameplay advantage, using two accounts one at a time would not count as a gameplay advantage.
 
-**A5. Loopholes.** Abusing loopholes in server rules or circumventing them altogether is not allowed. 
+**A5. Loopholes.** Abusing loopholes in server rules or circumventing them altogether is not allowed.
 
 ## Section B - Staff Rules
 
 **B1. Abuse.** If a staff member abuses their position for a gameplay advantage, they will be demoted and banned from running as staff again. Very serious abuse of staff position will also get the person permanently banned. 
 
-**B2. Logging.** Whenever a staff member takes any important administrative action (banning somebody or similar), they must post it in #1984-logs or output a - log using Wick (if possible)**. 
+**B2. Logging.** Whenever a staff member takes any administrative action (banning somebody or similar), they must post it in #1984-logs or output a log using Wick (if possible). 
 
 **B3. Item protection.** Staff member’s items are protected while they are taking administrative or other staff actions.
 
-**B4. Conflicts of interest.** A staff member cannot participate in decisions regarding their nation or decisions that have a direct effect on it.
+**B4. Conflicts of interest.** A staff member cannot participate in decisions regarding their nation or deisions that have a direct effect on it.
 
 **B5. Vetoing.** During staff applications/elections, administrators may unanimously veto a candidate or applicant, whether it be due to prior offenses or incompetence.
 
@@ -44,27 +94,27 @@ The administrators have the final say in what glitches are allowed or not, if th
 ## Section C - Chat Rules
 
 **C1. Spam.** 
-- **I.)** Do not spam in the server chat or Discord channels.
-- **II.)** Do not excessively post messages that are unrelated to the topic of a Discord channel, especially in #irl-politics.
+- **I.)** Do not spam in the server chat or Discord channels. [mute-24h]
+- **II.)** Do not excessively post messages that are unrelated to the topic of a Discord channel, especially in #irl-politics. [mute-24h]
 
-**C2. Pinging.** Use pings moderately. Do not use the DiscordSRV bot to ping everyone or a certain role.
+**C2. Pinging.** Use pings moderately. Do not attempt the DiscordSRV bot to ping everyone or a certain role. (this was fixed) [mute-24h]
 
-**C3. Doxxing.** Sharing personal information of others, so called doxxing, such as their name, home address, geographical location without explicit permission is not allowed.
+**C3. Doxxing.** Sharing personal information of others, so called doxxing, such as their name, home address, geographical location without explicit permission is not allowed. [ban-perm]
 
-****C4. Harassment.** Harassment is not allowed. (i.e. continuous targeting of a - specific player/group of players)** This includes verbal and non-verbal harassment such as repeated killing of players, intended to make their playing experience worse. 
+****C4. Harassment.** Harassment is not allowed. (i.e. continuous targeting of a - specific player/group of players) This includes verbal and non-verbal harassment such as repeated killing of players, intended to make their playing experience worse. This rule does not apply during wars. [ban-1d] [ban-1w]
 
 **C5. Threats.** Threats outside roleplay are not allowed. 
 
-**C6. Advertising.** Advertising for other servers is not allowed. This includes advertising via DMs. 
+**C6. Advertising.** Advertising for other servers is not allowed. This includes advertising via DMs. [ban-perm]
 
 **C7. Following behavior is not allowed:**
-- Bullying. Constantly mentioning a sensitive topic or similar to someone with the intent to make the target feel bad or any other strong negative emotion is not allowed.
-- Encouraging self-harm, suicide or violence. This includes comments like “kys” or sending images that contain that phrase or a word that refers to the phrase. 
-- Use of racist, homophobic, transphobic, and similar hate terms/slurs. This includes in images/videos/gifs sent, even if it was meant as a joke or satire. 
-Offensive symbolism or symbolism of oppressive groups or regimes.
-- Inappropriate dialogue or actions towards minors. This disallows any inappropriate dialogue in public channels. 
-- Explicit talk about sex, irl drugs, irl alcohol and other NSFW topics
-Supporting groups that promote- or promote/deny genocide, harrassment and/or discrimination. 
+- Bullying. Constantly mentioning a sensitive topic or similar to someone with the intent to make the target feel bad or any other strong negative emotion is not allowed. [mute-1d] [mute-1w]
+- Encouraging self-harm, suicide or violence. This includes comments like “kys” or sending images that contain that phrase or a word that refers to the phrase. [mute-1d] [ban-1d]
+- Use of racist, homophobic, transphobic, and similar hate terms/slurs. This includes in images/videos/gifs sent, even if it was meant as a joke or satire. [mute-24h] [ban-perm]
+- Offensive symbolism or symbolism of oppressive groups or regimes. [24h timeout - perm]
+- Inappropriate dialogue or actions towards anyone. This disallows any inappropriate dialogue in public channels. [ban-perm]
+- Explicit talk about sex, irl drugs, irl alcohol and other NSFW topics [ban-1d] [ban-perm]
+- Supporting groups that promote- or promote/deny genocide, harrassment and/or discrimination. 
 
 
 ## Section D - Nation Rules
@@ -125,14 +175,14 @@ Supporting groups that promote- or promote/deny genocide, harrassment and/or dis
 ## Section F - Gameplay Rules
 
 **F1. Griefing.** 
-- **I.)** When not at war, you may grief or edit claimed buildings and structures - (including signs) only if you are the leader of the nation or have explicit permission from the leader. 
-- **II.)** Everyone can edit naturally generated terrain that is unclaimed or claimed by the nation they are in; however, irreversibly damaging natural terrain (i.e. lava casting, excessive TNT bombing, etc.) is prohibited even if the land is unclaimed. The exception to this is the nether and the end (except the main island). 
-- **III.)** Griefing by generating portals into claimed land when there is no clear reason for it is not allowed. 
-- **IV.)** During war, griefing is allowed as long as it’s directly relevant to the fight and not unnecessary, in claimed land. In unclaimed land, all griefing is allowed during war, as long as it’s directly or indirectly relevant to the fight. 
+- **I.)** When not at war, you may grief or edit claimed buildings and structures - (including signs) only if you are the leader of the nation or have explicit permission from the leader. [ban-1h] [ban-perm]
+- **II.)** Everyone can edit naturally generated terrain that is unclaimed or claimed by the nation they are in; however, irreversibly damaging natural terrain (i.e. lava casting, excessive TNT bombing, etc.) is prohibited even if the land is unclaimed. [ban-3d] [ban-perm] The exception to this is the nether and the end (except the main island). 
+- **III.)** Griefing by generating portals into claimed land when there is no legitimate reason for it is not allowed. [ban-1h] (entering a secured area is not a legitimate reason)
+- **IV.)** During war, griefing is allowed as long as it’s directly relevant to the fight and not unnecessary, in claimed land (this includes but is not limited to: webs, lava, obsidian for crystals and escaping a trap). In unclaimed land, all griefing is allowed during war, as long as it’s directly or indirectly relevant to the fight. 
 
-**F2. Killing.** You may attack and kill another person even when not at war. Repeated killing over a long period of time with no real benefit or reason is not allowed. Spawnkilling is not allowed either. 
+**F2. Killing.** You may attack and kill another person even when not at war. Repeated killing over a long period of time with no real benefit or reason is not allowed. Spawnkilling is not allowed either. [ban-1d] [ban-1w]
 
-**F3. Stealing/looting.** Stealing from claimed territory is not allowed except in griefing wars. 
+**F3. Stealing/looting.** Stealing from claimed territory is not allowed except in griefing wars. [ban-1h] [ban-1w] 
 
 
 ## Section G - War Rules
