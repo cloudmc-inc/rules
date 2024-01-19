@@ -185,6 +185,13 @@ The administrators have the final say in what glitches are allowed or not, if th
 
 **F3. Stealing/looting.** Stealing from claimed territory is not allowed except in griefing wars. [ban-1h] [ban-1w] 
 
+**F4. Superweapons.** The following players are banned from constructing superweapons (defined below)
+- localhackerman - nuked server TWICE S1, was going to nuke it again S2 and failed to S3. extremely dangerous
+- arogg - just no (knows how the server functions)
+- JamesZhukov - not mentally stable
+
+*Superweapon* Any long-range targetable technical mincraft wizardry with the intention of causing mass damage to anyone or anything
+*definition is of the discretion of any developer NOT on the watchlist*
 
 ## Section G - War Rules
 
