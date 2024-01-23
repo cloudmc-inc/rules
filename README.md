@@ -120,7 +120,7 @@ The administrators have the final say in what glitches are allowed or not, if th
 
 ## Section D - Nation Rules
 
-**D1. Creation.** A nation must have at least one member, a recognized claim on some territory in order to participate in international relations or receive staff protection. To create a nation, write down its name, population, and its territory in #claims. Your nation's ingame tag MUST be your actual nation name or an abbreviation of it (it may not match another nation's tag).
+**D1. Creation.** A nation must have at least one member, a recognized claim on some territory in order to participate in international relations or receive staff protection. To create a nation, write down its name, population, and its territory in #claims. 
 
 **D2. Leader.** The person who creates a nation is considered that nation’s leader, unless they grant leadership to another player. If the leader leaves the faction or gets permanently banned without granting leadership to anyone, it is up to the members to choose the new leader. Use #claims to declare a new leader.
 
@@ -185,13 +185,6 @@ The administrators have the final say in what glitches are allowed or not, if th
 
 **F3. Stealing/looting.** Stealing from claimed territory is not allowed except in griefing wars. [ban-1h] [ban-1w] 
 
-**F4. Superweapons.** The following players are banned from constructing superweapons (defined below)
-- localhackerman - nuked server TWICE S1, was going to nuke it again S2 and failed to S3. extremely dangerous
-- arogg - just no (knows how the server functions)
-- JamesZhukov - not mentally stable
-
-*Superweapon* Any long-range targetable technical mincraft wizardry with the intention of causing mass damage to anyone or anything
-*definition is of the discretion of any developer NOT on the watchlist*
 
 ## Section G - War Rules
 
