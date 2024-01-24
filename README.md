@@ -199,6 +199,9 @@ The administrators have the final say in what glitches are allowed or not, if th
 - **I.)** To declare war, you need to post a message in #war, which includes the following:
   - A sentence that says who you are declaring war against. 
   - A list of members from your nation that will be soldiers. At least one person is required to be a soldier. 
+    - The following requirements must be met for a player to become a soldiers:
+    - 2h+ Playtime
+    - Must have joined for a minimum of 10mins prior to initial declaration
   - A suggestion to where and when the first battle may take place.
   - Pinging the enemy leader(s). 
 
