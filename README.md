@@ -182,6 +182,7 @@ The administrators have the final say in what glitches are allowed or not, if th
 - **II.)** Everyone can edit naturally generated terrain that is unclaimed or claimed by the nation they are in; however, irreversibly damaging natural terrain (i.e. lava casting, excessive TNT bombing, etc.) is prohibited even if the land is unclaimed. [ban-3d] [ban-perm] The exception to this is the nether and the end (except the main island). 
 - **III.)** Griefing by generating portals into claimed land when there is no legitimate reason for it is not allowed. [ban-1h] (entering a secured area is not a legitimate reason)
 - **IV.)** During a griefing war, griefing is allowed as long as it’s directly relevant to the fight and not unnecessary, in claimed land (this includes but is not limited to: webs, lava, obsidian for crystals and escaping a trap). In unclaimed land, all griefing is allowed during war, as long as it’s directly or indirectly relevant to the fight.
+NOTE: You are allowed to use cobwebs no matter the war type, and no matter the land it's placed in.
 
 **F2. Killing.** You may attack and kill another person even when not at war. Repeated killing over a long period of time with no real benefit or reason is not allowed. Spawnkilling is not allowed either. [ban-1d] [ban-1w]
 
@@ -208,10 +209,9 @@ The administrators have the final say in what glitches are allowed or not, if th
   - Pinging the enemy leader(s). 
 
   *A war declaration is not valid unless these terms are fulfilled.*
-- **II.)** In order to declare war you need to have built 1 settlement every 2 weeks, this is checked by the staff team before the declaration is confirmed.
+- **II.)** In order to declare war you need to have built at least 2 medium-sized houses, this is checked by the staff team before the declaration is confirmed.
 - **III.)** The nation that gets declared on has 24 hours to confirm the war declaration, and present a list of soldiers. They have another 24 hours to either agree on the time and place suggested by the attacker, or present their own. Uninvolved administrators are responsible for deciding a time and place if there is no agreement. 
 - **IV.)** Both sides need to agree at the point of war declaration if crystal pvp should be allowed or not in the war. Using end crystals, respawn anchors or any other explosive block (with the exception of conventional TNT) as a means to kill or damage people or ground during the battle all counts as crystal pvp.
-- **V.)** Inviting fighters in excess who have no other interest in the server is strictly prohibited, and will result in forced capitulation.
 
 **G2. War immunity.** 
 - **I.)** If a nation was created by a player that has recently joined a world, such a nation may not be declared war on for 7 days. Nations founded afterwards are immune to war declarations for 5 days since the establishment of that nation.
