@@ -8,6 +8,7 @@
 - No cheating
 - No bigotry
 - No NSFW
+- No supporting eugenics
 - You create a nation in ⁠#claims
 
 #### Punishment Length Syntax:
