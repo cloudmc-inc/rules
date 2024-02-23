@@ -46,7 +46,8 @@ if a rule is missing a punishment description, sorry ☺
 
 **A1. Mods.** Hacking or using mods that grant a gameplay advantage are not allowed. 
 Examples of allowed mods are: performance mods, minimap mods, health display, litematica, client visual mods.
-Examples of disallowed mods are: x-ray mods or texture packs [ban-3d] [ban-perm], LitematicaPrinter [ban-1d] [ban-1w], Baritone, macros and hacked clients including Meteor and Wurst [ban-3w] [ban-perm]. If you are not sure if a mod is allowed or not, please ask the administrators either in a public chat or open a ticket. 
+Examples of disallowed mods are: x-ray mods or texture packs [ban-3d] [ban-perm], LitematicaPrinter [ban-1d] [ban-1w], Baritone, and hacked clients including Meteor and Wurst [ban-3w] [ban-perm]. If you are not sure if a mod is allowed or not, please ask the administrators either in a public chat or open a ticket. 
+*Utilising external macros for farms is allowed*
 
 **A2. Bugs.** Using bugs or glitches to get a personal or team advantage is not allowed. Bugs/glitches specific to the server or server software is not allowed.
 Examples of disallowed bugs/glitches are:
