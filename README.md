@@ -195,6 +195,8 @@ The administrators have the final say in what glitches are allowed or not, if th
 *Superweapon* Any long-range targetable technical mincraft wizardry with the intention of causing mass damage to anyone or anything
 *definition is of the discretion of any developer NOT on the watchlist*
 
+**F5. Home Abuse.** Abusing any /team sethome or /home commands to fight other people or setting them in others bases is against the rules. The whole team will be punished. [ban-3h]
+
 ## Section G - War Rules
 
 **G1. Declaration of war.** 
