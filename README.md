@@ -117,6 +117,8 @@ The administrators have the final say in what glitches are allowed or not, if th
 - Supporting groups that promote- or promote/deny genocide, harrassment and/or discrimination. [mute-48h] [ban-perma]
 - Your server profile is also eligable for moderation
 
+**C8. Identity theft.** Under no circumstances are members of booster rank or higher allowed to pose as another member via /nick, whether by an identical or similar username.
+
 
 ## Section D - Nation Rules
 
