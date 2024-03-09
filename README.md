@@ -103,7 +103,9 @@ The administrators have the final say in what glitches are allowed or not, if th
 
 ****C4. Harassment.** Harassment is not allowed. (i.e. continuous targeting of a - specific player/group of players) This includes verbal and non-verbal harassment such as repeated killing of players, intended to make their playing experience worse. This rule does not apply during wars. [ban-1d] [ban-1w]
 
-**C5. Threats.** Threats outside roleplay are not allowed. 
+**C5. Roleplay.**
+- **I.)** Roleplay, whether ingame or on Discord, is optional but heavily recommended. You may still use metagaming tactics (spies, enforcing rules, reporting, etc).
+- **II.)** Threats outside roleplay are not allowed. 
 
 **C6. Advertising.** Advertising for other servers is not allowed. This includes advertising via DMs. [ban-perm]
 
@@ -115,14 +117,14 @@ The administrators have the final say in what glitches are allowed or not, if th
 - Inappropriate dialogue / predatory behaviour or actions towards anyone. This disallows any inappropriate dialogue in public channels. [ban-perm]
 - Explicit talk about sex, irl drugs, irl alcohol and other NSFW topics [mute-1h] [ban-perm]
 - Supporting groups that promote- or promote/deny genocide, harrassment and/or discrimination. [mute-48h] [ban-perma]
-- Your server profile is also eligable for moderation
+- Your server profile is also eligable for moderation. This includes inappropriate profile pictures, discriminating pronouns as well as hateful statuses and bios.
 
 **C8. Identity theft.** Under no circumstances are members of booster rank or higher allowed to pose as another member via /nick, whether by an identical or similar username.
 
 
 ## Section D - Nation Rules
 
-**D1. Creation.** A nation must have at least one member, a recognized claim on some territory in order to participate in international relations or receive staff protection. To create a nation, write down its name, population, and its territory in #claims. Your nation's ingame tag MUST be your actual nation name or an abbreviation of it (it may not match another nation's tag).
+**D1. Creation.** A nation must have at least one member and a recognized claim on some territory in order to participate in international relations or receive staff protection. To create a nation, write down its name, population, and its territory in #claims. Your nation's ingame tag MUST be your actual nation name or an abbreviation of it (it may not match another nation's tag).
 
 **D2. Leader.** The person who creates a nation is considered that nation’s leader, unless they grant leadership to another player. If the leader leaves the faction or gets permanently banned without granting leadership to anyone, it is up to the members to choose the new leader. Use #claims to declare a new leader.
 
@@ -181,7 +183,8 @@ The administrators have the final say in what glitches are allowed or not, if th
 - **I.)** When not at war, you may grief or edit claimed buildings and structures - (including signs) only if you are the leader of the nation or have explicit permission from the leader. [ban-1h] [ban-perm]
 - **II.)** Everyone can edit naturally generated terrain that is unclaimed or claimed by the nation they are in; however, irreversibly damaging natural terrain (i.e. lava casting, excessive TNT bombing, etc.) is prohibited even if the land is unclaimed. [ban-3d] [ban-perm] The exception to this is the nether and the end (except the main island). 
 - **III.)** Griefing by generating portals into claimed land when there is no legitimate reason for it is not allowed. [ban-1h] (entering a secured area is not a legitimate reason)
-- **IV.)** During war, griefing is allowed as long as it’s directly relevant to the fight and not unnecessary, in claimed land (this includes but is not limited to: webs, lava, obsidian for crystals and escaping a trap). In unclaimed land, all griefing is allowed during war, as long as it’s directly or indirectly relevant to the fight. 
+- **IV.)** During a griefing war, griefing is allowed as long as it’s directly relevant to the fight and not unnecessary, in claimed land (this includes but is not limited to: webs, lava, obsidian for crystals and escaping a trap). In unclaimed land, all griefing is allowed during war, as long as it’s directly or indirectly relevant to the fight.
+NOTE: You are allowed to use cobwebs no matter the war type, and no matter the land it's placed in.
 
 **F2. Killing.** You may attack and kill another person even when not at war. Repeated killing over a long period of time with no real benefit or reason is not allowed. Spawnkilling is not allowed either. [ban-1d] [ban-1w]
 
@@ -192,8 +195,8 @@ The administrators have the final say in what glitches are allowed or not, if th
 - arogg - just no (knows how the server functions)
 - JamesZhukov - not mentally stable
 
-*Superweapon* Any long-range targetable technical mincraft wizardry with the intention of causing mass damage to anyone or anything
-*definition is of the discretion of any developer NOT on the watchlist*
+*Superweapon*: Any long-range targetable technical mincraft wizardry with the intention of causing mass damage to anyone or anything
+*definition is of the discretion of any developer/administrator NOT on the watchlist*
 
 **F5. Home Abuse.** Abusing any /team sethome or /home commands to fight other people or setting them in others bases is against the rules. The whole team will be punished. [ban-3h]
 
@@ -204,15 +207,15 @@ The administrators have the final say in what glitches are allowed or not, if th
   - A sentence that says who you are declaring war against. 
   - A list of members from your nation that will be soldiers. At least one person is required to be a soldier. 
     - The following requirements must be met for a player to become a soldiers:
-    - 2h+ Playtime
-    - Must have joined for a minimum of 10mins prior to initial declaration
+    - Must be generally active in the days before battle
+    - Must have joined for a minimum of 1 hour prior to the initial declaration
   - A suggestion to where and when the first battle may take place.
   - Pinging the enemy leader(s). 
 
   *A war declaration is not valid unless these terms are fulfilled.*
-- **II.)** In order to declare war you need at least 2 medium sized houses to count as settlements, this is checked by moderators before the war is confirmed.
-- **III.)** The nation that gets declared on has 24 hours to confirm the war declaration, and present a list of soldiers. They have another 24 hours to either agree on the time and place suggested by the attacker, or present their own. The administrators is responsible for deciding a time and place if there is no agreement. 
-- **IV.)** Both sides need to agree at the point of war declaration if crystal pvp should be allowed or not in the war. Using end crystals and respawn anchors as a means to kill or damage people or ground during the battle all counts as crystal pvp. 
+- **II.)** In order to declare war you need to have built at least 2 medium-sized houses, this is checked by the staff team before the declaration is confirmed.
+- **III.)** The nation that gets declared on has 24 hours to confirm the war declaration, and present a list of soldiers. They have another 24 hours to either agree on the time and place suggested by the attacker, or present their own. Uninvolved administrators are responsible for deciding a time and place if there is no agreement. 
+- **IV.)** Both sides need to agree at the point of war declaration if crystal pvp should be allowed or not in the war. Using end crystals, respawn anchors or any other explosive block (with the exception of conventional TNT) as a means to kill or damage people or ground during the battle all counts as crystal pvp.
 
 **G2. War immunity.** 
 - **I.)** If a nation was created by a player that has recently joined a world, such a nation may not be declared war on for 7 days. Nations founded afterwards are immune to war declarations for 5 days since the establishment of that nation.
@@ -229,6 +232,7 @@ The administrators have the final say in what glitches are allowed or not, if th
 - **II.)** You may not volunteer if you are not a member of any nation. You may not volunteer for two nations at the same time. During a war cooldown between yours and another nation, you may not volunteer against the latter.
 - **III.)** One nation may only send a max of 2 volunteers to one side in a war.
 - **IV.)** Griefing a volunteer’s mother nation during a griefing war is not allowed.
+- **V.)** Nations with 2 members or less may not send volunteers to war, and will have to completely join to participate.
 
 **G5. Teleports.** You are not allowed to use /home commands during war. Using this may result in a forced defeat. 
 
@@ -248,7 +252,7 @@ The administrators have the final say in what glitches are allowed or not, if th
 - **V.)** Peace treaties involving anything other than taking land, disbanding, abandoning land, kicking out players and vassalization, are not enforceable by staff, and therefore have to be enforced by the players themselves. If a nation however breaks the non-enforceable part of a peace treaty then the war cooldown between those two nations is canceled, and war can occur immediately. Note that this will be decided by the staff team and the non-enforceable part being reasonable will be taken into account.
 - **VI.)** If a nation is disbanded during a war, it capitulates. An involuntary treaty is signed, in which the losing nation must accept all reasonable offered peace terms. 
 - **VII.)** If a member or multiple members of a nation during war break an important rule which considerably changes the outcome of a war, that nation will be forced to surrender.
-- **VIII.)** Annexing land as part of a peace treaty is enforceable by staff. There is no limit to how much land you can annex, and you can keep it for 2 weeks before it counts as land in terms of activity. 
+- **VIII.)** Annexing land as part of a peace treaty is enforceable by staff. There is no limit to how much land you can annex, and you can keep it for 2 weeks before it counts as land in terms of activity.
 
 *fun fact, you can contribute to our rules*~
 *either create an issue or make the changes yourself and open a pull request*
